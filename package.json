@@ -8,8 +8,8 @@
     "iback": "cd ./backend && npm install",
     "start": "npm-run-all -p -l -c \"frontend\" \"backend\"",
     "dev": " 'npm run backend' && 'npm run frontend'",
-    "frontend": "npm run dev --prefix ./frontend",
-    "backend": "npm run server --prefix ./backend"
+    "frontend": "cd ./frontend && npm run dev",
+    "backend": "cd ./backend && npm run server"
   },
   "keywords": [],
   "author": "",
