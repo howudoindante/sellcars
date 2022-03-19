@@ -7,6 +7,12 @@
 
 In my opinion, this project fully reveals my abilities. And this is a great opportunity to consolidate your skills.
 
+#### Installation
+
+```
+git clone --recurse-submodules -j8 git@github.com:marcusblanco/sellcars.git
+```
+
 ## API Reference
 
 #### Login
