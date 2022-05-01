@@ -15,6 +15,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/js-cookie": "^3.0.2",
     "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "js-cookie": "^3.0.1"
   }
 }
