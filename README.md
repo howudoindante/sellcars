@@ -12,28 +12,13 @@ In my opinion, this project fully reveals my abilities. And this is a great oppo
 ```
 git clone --recurse-submodules -j8 git@github.com:marcusblanco/sellcars.git
 ```
+App demo
+https://user-images.githubusercontent.com/61409607/166224251-69fd355d-5761-4c2e-9a27-94aee70edc2f.mp4
 
-## API Reference
+Filtering demo
+https://user-images.githubusercontent.com/61409607/166224232-2e44753c-6d75-4f6e-a112-8f90109125f0.mp4
 
-#### Login
 
-```http
-  POST /auth/login
-```
-***Request body parameters***
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `username` | `string` | **Required**. Your username. |
-| `password` | `string` | **Required**. Your password. |
 
-***Response parameters***
 
-Status: 200
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `token` | `string` | Authorization token. |
 
-Status: 400
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `message` | `string` | Error message. |
