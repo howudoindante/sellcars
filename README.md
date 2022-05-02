@@ -1,11 +1,6 @@
 # SELLCARS 
 ### Graduation project for the sale cars
 
-## FAQ
-
-#### Why?
-
-In my opinion, this project fully reveals my abilities. And this is a great opportunity to consolidate your skills.
 
 #### Installation
 
